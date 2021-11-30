@@ -1,3 +1,6 @@
+Imágenes: https://picsum.photos/
+
+
 # JavaScript: Datos y bibliotecas
 
 ### Clase 4 → 30-11-2021
