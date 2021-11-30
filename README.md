@@ -1,5 +1,7 @@
 Imágenes: https://picsum.photos/
 
+Revisar CSV: https://csvlint.io/
+
 
 # JavaScript: Datos y bibliotecas
 
