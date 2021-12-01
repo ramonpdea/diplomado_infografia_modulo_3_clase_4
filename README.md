@@ -2,6 +2,8 @@ Imágenes: https://picsum.photos/
 
 Revisar CSV: https://csvlint.io/
 
+Colores: https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+
 
 # JavaScript: Datos y bibliotecas
 
